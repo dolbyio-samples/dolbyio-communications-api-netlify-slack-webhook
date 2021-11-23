@@ -1,5 +1,5 @@
   
-## Dolby.io Communications API Slack intergration with Netlfy
+## Dolby.io Communications API Slack intergration with Netlify
 
 Webhooks Overview 
 1. Set up your platform or application with an HTTPS endpoint to receive the Dolby.io webhook events.
