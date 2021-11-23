@@ -17,12 +17,12 @@
     "Dolby.io"
   ],
   "author": "Dan Zeitman",
-  "license": "ISC",
+  "license": "CC0",
   "bugs": {
     "url": "https://github.com/dolbyio-samples/dolbyio-communications-api-netlify-slack-webhook/issues"
   },
   "homepage": "https://github.com/dolbyio-samples/dolbyio-communications-api-netlify-slack-webhook#readme",
   "dependencies": {
-    "node-fetch": "^3.1.0"
+    "axios": "^0.24.0"
   }
 }
