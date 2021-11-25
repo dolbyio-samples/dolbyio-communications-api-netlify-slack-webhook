@@ -1,12 +1,3 @@
 [build] 
   publish = "www"
-  command = "npm install"
-  functions = "functions"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
-  
-[template.environment]
-  SLACK_WEBHOOK_URL = "Enter your slack webhook URL"
+  command = "echo No build command yet!"
